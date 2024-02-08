@@ -1,5 +1,5 @@
 
-    public class sample  
+    public class Sample  
     {  
         public int sum(int a, int b, int c)   
         {  
