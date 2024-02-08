@@ -1,8 +1,8 @@
 
     public class sample  
     {  
-    public sum(int a, int b,intc)   
-    {  
-       return a+b+c
-    }  
+        public int sum(int a, int b, int c)   
+        {  
+               return a+b+c
+        }  
     }  
